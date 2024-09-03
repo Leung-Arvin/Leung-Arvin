@@ -3,7 +3,7 @@
 Welcome to my Github profile! I am a full-stack software engineer who is eager to learn new things and develop awesome stuff. You can reach me via the links below.
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Get it on SERVICE" height="32" />](www.linkedin.com/in/arvin-leung)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Get it on SERVICE" height="32" />](www.linkedin.com/in/arvin-leung)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Get it on SERVICE" height="32" />](leungarvin@gmail.com)
 
 ## Technologies I Use
 <!--
