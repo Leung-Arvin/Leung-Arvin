@@ -6,6 +6,9 @@ Welcome to my Github profile! I am a full-stack software engineer who is eager t
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Get it on SERVICE" height="32" />](leungarvin@gmail.com)
 
 ## Technologies I Use
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="40" />
+</p>
 <!--
 **Leung-Arvin/Leung-Arvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
