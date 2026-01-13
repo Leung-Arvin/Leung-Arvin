@@ -3,7 +3,7 @@
 
 
 
-Welcome to my Github profile! As of now, I am a second year software engineering student at the University of Ottawa aspiring to become a full-stack software engineer.
+Welcome to my Github profile! As of now, I am a third year software engineering student at the University of Ottawa aspiring to become a full-stack software engineer.
 
 
 
